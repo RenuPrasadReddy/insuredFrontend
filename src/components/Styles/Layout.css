@@ -1,0 +1,28 @@
+.Layout-container {
+    display: flex;
+    height: 100vh;
+    width: 100%;
+    justify-content: center;
+    
+}
+
+.Layout-left-item{
+    width: 45%;
+    height: 50%;
+    border: 1px solid black;
+}
+
+.Layout-right-item{
+    width: 55%;
+    height: 75%;
+    padding: 10px;
+    border: 1px solid black;
+    margin-left: 3px;
+    padding-left: 3px;
+}
+
+.box{
+    border: 1px solid black;
+    margin: 25px;
+    padding: 20px;
+}
